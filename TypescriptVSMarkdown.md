@@ -11,7 +11,7 @@ Difference between TypeScript and JavaScript:
     TypeScript has a feature known as Static typing but JavaScript does not support this feature.
     TypeScript supports Interfaces but JavaScript does not.
 
-Advantages of using TypeScript over JavaScript 
+Advantages of using TypeScript over JavaScript:
 
     TypeScript always points out the compilation errors at the time of development (pre-compilation). Because of this getting runtime errors is less likely, whereas JavaScript is an interpreted language.
     TypeScript supports static/strong typing. This means that type correctness can be checked at compile time. This feature is not available in JavaScript.
