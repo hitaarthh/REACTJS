@@ -17,7 +17,7 @@ Advantages of using TypeScript over JavaScript
     TypeScript supports static/strong typing. This means that type correctness can be checked at compile time. This feature is not available in JavaScript.
     TypeScript is nothing but JavaScript and some additional features i.e. ES6 features. It may not be supported in your target browser but the TypeScript compiler can compile the .ts files into ES3, ES4, and ES5 also.
 
-Disadvantages of using TypeScript over JavaScript
+Disadvantages of using TypeScript over JavaScript:
 
     Generally, TypeScript takes time to compile the code.
 
