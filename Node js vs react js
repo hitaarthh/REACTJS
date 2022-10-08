@@ -1,0 +1,21 @@
+Node.js: Node.js is an open-source and cross-platform runtime environment for executing JavaScript code outside a browser. You need to remember that NodeJS is not a framework and it’s not a programming language. Most people are confused and understand it’s a framework or a programming language. We often use Node.js for building back-end services like APIs like Web App or Mobile App.
+
+Features of Node.js:  There are other programming languages also that we can use to build back-end services so what makes Node.js different I am going to explain.
+
+    It’s easy to get started and can be used for prototyping and agile development
+    It provides fast and highly scalable services
+    It uses JavaScript everywhere so it’s easy for a JavaScript programmer to build back-end services using Node.js
+    Source code cleaner and consistent.
+    Large ecosystem for open source library.
+    It has an Asynchronous or Non-blocking nature.
+    
+    ReactJS: It is an open-source JavaScript library for building single-page user interfaces. It is declarative, efficient, flexible, and allows us to create reusable UI components, it used as a base in single-page, complex, interactive web projects, and react components are difficult to reuse. The virtual DOM algorithm of React is a time-consuming and imprecise writing code. A React application is made of multiple components, each responsible for rendering a small, reusable piece of HTML. Components can be nested within other components to allow complex applications to be built out of simple building blocks.
+
+Features of React.js: Here are some features that make React.js different from other programming languages:
+
+    React components have reusable codes that make it simple to use and learn.
+    React library has JSX (JavaScript XML), which is HTML like syntax, which is processed into JavaScript calls.
+    React components are reusable which helps while working on larger scale projects and has their own logic and controls.
+    One-way data binding provides better control throughout the application.
+    The virtual DOM uses the ReactDOM library which ideally/virtually, represents UI and keeps in the memory and syncs with the real DOM.
+    DOM has a smoother and faster performance due to virtual components.
