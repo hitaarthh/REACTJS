@@ -1,19 +1,19 @@
 Getting Started
 
-Visit https://nextjs.org/learn to get started with Next.js.
+- Visit https://nextjs.org/learn to get started with Next.js.
 Documentation
 
-Visit https://nextjs.org/docs to view the full documentation.
+- Visit https://nextjs.org/docs to view the full documentation.
 Who is using Next.js?
 
-Next.js is used by the world's leading companies. Check out the Next.js Showcase to learn more.
+- Next.js is used by the world's leading companies. Check out the Next.js Showcase to learn more.
 Community
 
-The Next.js community can be found on GitHub Discussions, where you can ask questions, voice ideas, and share your projects.
+- The Next.js community can be found on GitHub Discussions, where you can ask questions, voice ideas, and share your projects.
 
-To chat with other community members you can join the Next.js Discord.
+- To chat with other community members you can join the Next.js Discord.
 
-Our Code of Conduct applies to all Next.js community channels.
+- Our Code of Conduct applies to all Next.js community channels.
 Contributing
 
 Please see our contributing.md.
